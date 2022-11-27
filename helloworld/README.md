@@ -1,3 +1,0 @@
-## HelloWorld
-
-HelloWorldの出力
