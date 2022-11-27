@@ -1,5 +1,5 @@
 ## pythonのコードを書いてみる
 
-* [HelloWorld](helloWorld/helloWorld)
-* [変数宣言](helloworld/variable)
+* [HelloWorld](helloWorld/helloWorld/helloWorld.py)
+* [変数宣言](helloworld/variable/variable.py)
 
